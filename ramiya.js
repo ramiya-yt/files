@@ -9,10 +9,14 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
   VERSION: 'v1.0.0',
-  BOT: '🦹‍♂️ *RAMIYA BOT v1.0*',
-  FBS1: 'https://dapuhy-api.herokuapp.com/api/',
+  BOT: '🦹‍♂️ *AZURE v1.0*',
+  SITE1: 'https://api.dapuhy.ga/api/', 
   FBS2: 'snapsave?url',
-  FBAPI: 'OSuDZukzPWE49ro',
+  YTS1: 'ytmp4v2?url',
+  YTS2: 'ytplaymp4v2?query',
+  S1API: 'OSuDZukzPWE49ro',
+  S2API: 'azure01',
+  S3API: 'azure02',
     
   ADMIN: process.env.ADMIN === undefined ?'RAMIYA' : process.env.ADMIN,
   ADMIN1: process.env.ADMIN1 === undefined ?'RAMIYA' : process.env.ADMIN1,
