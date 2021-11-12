@@ -29,10 +29,12 @@ module.exports = {
   SITE7: 'https://rei-api.herokuapp.com/api/',
   SITE8: 'https://bx-hunter.herokuapp.com/api/',
   SITE9: 'https://hardianto-chan.herokuapp.com/api/',
+  SITE10: 'https://zenzapi.xyz/api/',
 //---------------------------------------------------|-SUB-URL-|-----------------------
   FBS2: 'snapsave?url',
   YTX1: 'ytmp4v2?url',
   YTX2: 'ytplaymp4v2?query',
+  S10XMP3Q: 'playmp3?query=',
 //-------------------------------------------------------------------------------------
 //     Owner ට ගරු කරලා Apikey මාරු කරලා ගනින් උස්සනවා නම් ! පහල APIKEY උස්සන්න එපා
 //-------------------------------------------------------------------------------------
